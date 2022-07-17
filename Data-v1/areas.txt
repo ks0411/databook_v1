@@ -1,0 +1,16 @@
+Lead_Index	C,D,E	12,18
+Lead_Index	C,D,E,G,H	28,31
+Lead_Index	G,H,I,J,K	7,25
+Lead CF	C,D	7,8
+Lead CF	C,D	10,12
+Lead CF	C,D	18,19
+Lead CF	C,D	23,24
+Lead BS	C,E	11,13
+Lead BS	C,E	16,16
+Lead BS	C,E	20,21
+R1	D,E	7,8
+R1	D,E	12,18
+R1	G,H	7,8
+R1	G,H	12,18
+R1	J,K	7,8
+R1	J,K	12,18
