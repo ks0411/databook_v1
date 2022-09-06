@@ -1,9 +1,0 @@
-name: DataBook
-channels:
-  - conda-forge
-dependencies:
-  - python=3.8
-  - pip=21.2.*  
-  - pip:
-    - pandas
-    - scikit-learn
