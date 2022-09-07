@@ -1,8 +1,12 @@
+*.amltmp
+*.amlignore
+.ipynb_aml_checkpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
+Data-v1/runs
 # C extensions
 *.so
 
