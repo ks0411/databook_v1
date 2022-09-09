@@ -50,8 +50,8 @@ def main():
     mlflow.log_metric("FP (test)", fp)
     mlflow.log_metric("FN (test)", fn)
     mlflow.log_metric("Accuracy (test)", accuracy)
-    mlflow.log_metric("Accuracy (test)", precision)
-    mlflow.log_metric("Accuracy (test)", recall)
+    mlflow.log_metric("Precision (test)", precision)
+    mlflow.log_metric("Recall (test)", recall)
 
     print(classification_report(test_data["Y_test"], predicted_LRC))
 

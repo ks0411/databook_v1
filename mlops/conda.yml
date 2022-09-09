@@ -13,6 +13,5 @@ dependencies:
     - xlrd==2.0.1
     - mlflow== 1.26.1
     - azureml-mlflow==1.42.0
-    - pickle
     - joblib
     - https://paoltmlv28403383412.blob.core.windows.net/azureml/Environment/azureml-private-packages/databook-0.1-py3-none-any.whl
