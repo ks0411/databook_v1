@@ -55,7 +55,7 @@ def main():
 
     print(classification_report(test_data["Y_test"], predicted_LRC))
 
-    os.makedirs(args.model, exist_ok=True)
+    os.makedirs(args.model_path, exist_ok=True)
     file_name_model = os.path.join(args.model_path, "model.pkl")
 
     with open(file_name_model, "wb") as f_model:
